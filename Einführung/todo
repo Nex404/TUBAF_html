@@ -1,0 +1,48 @@
+html aufbau
+    -Aufbau der commands
+    -head and body
+        -head = oben in dem tab
+        -body alles auf der Seite
+
+Kommentare
+    - Aufbau: <!-- Kommentar -->
+    
+Textbearbeitung
+    -headlines <h1>
+    -Zeilenumbruch <br>
+    -Paragraph <p>
+    -Fettgedruckt <b>
+    -kursiv <i>
+    -unterstrichen <u>
+
+Hyperlinks
+    -Definieren <a href="hyperlink">Zeichen auf was es gesetzt werden soll </a>
+
+
+Auflistung
+    -ungeordnete liste ul
+    -Auflistung starten <ul>
+    -Eintrag in Liste <li>
+
+    -ordered list ol
+    -Auflistung starten <ol>
+    -Eintrag <li>
+
+Tabellen
+    - Begin und Ende von einer Tabellen
+        - <table border="border">
+        - </table>
+    - tablerow <tr> </tr>
+    - tablehead <th> </th>
+    - table cell <td> </td>
+
+Bilder
+    - Define:
+        <img src="source">
+    - Params
+        width="x%"
+        width="xcm"
+        alt="alternative text when pic cant be displayed"
+
+
+    
